@@ -1,4 +1,5 @@
-# cleanarchitecture-golang
+# todo-lists
+Todo list using Golang
 
 Sample REST API demonstrating the clean architecture written in golang based on [hirotakan/go-cleanarchitecture-sample](https://github.com/hirotakan/go-cleanarchitecture-sample)
 .
